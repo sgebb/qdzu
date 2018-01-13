@@ -1,0 +1,2 @@
+# qdzu
+New currency
